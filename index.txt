@@ -211,7 +211,7 @@ alt = Shooter Action Video
 Admin
 
 <ion-icon name="calendar-outline"></ion-icon>
-September 19, 2022
+September 19, 2023
 
 Shooter Action Video
 
@@ -286,7 +286,7 @@ placeholder = Enter your email
 aria-label = submit
 <ion-icon name="rocket"></ion-icon>
 
-&copy; 2022 Gamics. All Right Reserved.
+&copy; 2023 Gamics. All Right Reserved.
 
 
 
